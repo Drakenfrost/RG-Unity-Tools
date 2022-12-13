@@ -3,7 +3,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
 
-namespace RGUnityTools
+namespace RGUnityTools.GameSettings
 {
     public class RGGameSettingsUI : MonoBehaviour
     {

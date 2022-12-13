@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace RGUnityTools
+namespace RGUnityTools.GameSettings
 {
     //TODO attach save file system to here.
     [CreateAssetMenu(fileName = "New Game Settings", menuName = "Game Settings")]
